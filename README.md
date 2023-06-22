@@ -39,11 +39,11 @@ STEP 2. 저축을 해 기간동안 목표금을 달성한 이들은 열매샵을
 - Google Cloud Vision API<br>
 
 <h2>4. ERD</h2>
-<img src="https://github.com/dev-bogeun/Tikkeul-Project/assets/129700705/48cbda29-c03a-48c7-80a9-09537db51f0f"  style = "width: 80%; height : 480">
+<img src="https://user-images.githubusercontent.com/81303136/244267599-efc378ff-a97e-4569-902f-ed8d06a9050b.png"  style = "width: 80%; height : 480">
 
 <h2>5. 담당 업무</h2>
 5-1 프론트엔드<br>
-<img src="https://github.com/Yunkihong-Dev/Tikkeul-Project/assets/81303136/4fa49f4c-5827-4a54-967f-c2d65e5a3570" style = "width: 90%;">
+<img src="https://user-images.githubusercontent.com/81303136/243063081-567dbafa-2dea-4c6b-ae67-d1d831741df0.png" style = "width: 80%; height : 480">
 
 ▶ 열매샵 상품목록
 - 상품 목록
