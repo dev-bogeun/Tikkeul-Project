@@ -41,7 +41,7 @@ STEP 2. 저축을 해 기간동안 목표금을 달성한 이들은 열매샵을
 
 <h2>5. 담당 업무</h2>
 5-1 프론트엔드<br>
-<img src="https://user-images.githubusercontent.com/81303136/243063081-567dbafa-2dea-4c6b-ae67-d1d831741df0.png" style = "width: 80%; height : 480">
+<img src="https://github.com/dev-bogeun/Tikkeul-Project/assets/129700705/667de3eb-41f0-43b9-b1d9-4e277ede21fb" style = "width: 80%; height : 480">
 
 ▶ 열매샵 상품목록
 - 상품 목록
