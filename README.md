@@ -1,5 +1,3 @@
-![image](https://github.com/dev-bogeun/Tikkeul-Project/assets/129700705/2716de66-2265-4aa1-a0f1-319e45612296)# Tikkeul-Project
-
 <h1> 티끌, 누구나 쉽게 시작하는 저축생활 - 'tikkeul'</h1>
 
 
